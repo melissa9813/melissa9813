@@ -1,7 +1,7 @@
 # Hello World, I'm Melissa (정은) 👋🏻
 
 ### ✅ Summary of Me
-- 🌷 You can find my projects here [portfolio].
+- 🌷 You can find my projects here [portfolio] (! Not yet finished).
 - 🌷 I’m currently learning statistics and data structure.
 - 🌷 I’m currently working on interactive Power BI dashboards from SQL-based data analysis on ERP system in Hong Kong as a student intern.
 - ⚡ Academic Profile: <br>
