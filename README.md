@@ -20,7 +20,7 @@
 ### ✅ Connect with Me
 
    <a href="https://www.linkedin.com/in/jungeun-eom/"><img align="left" alt="linkedin" width="70px" src="https://github.com/melissa9813/melissa9813/blob/a123b769125173f5d5cbf709fc063a8175268179/linkedin.png" /></a>
-   <a href="mailto: abc@example.com"><img align="left" alt="email" width="70px" src="https://github.com/melissa9813/melissa9813/blob/a6d5a1de53bc6a8ccaa08565f4011bb579a60960/email_logo.jpg" /></a>
+   <a href="mailto: jungeun.melissa@gmail.com"><img align="left" alt="email" width="70px" src="https://github.com/melissa9813/melissa9813/blob/a6d5a1de53bc6a8ccaa08565f4011bb579a60960/email_logo.jpg" /></a>
 
 [linkedin]: https://www.linkedin.com/in/jungeun-eom/
 [portfolio]: https://eommelissa.wixsite.com/melissa
