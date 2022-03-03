@@ -1,7 +1,6 @@
 # Hello World, I'm Melissa (정은) 👋🏻
 
 ### ✅ Summary of Me
-- 🌷 You can find my projects here [portfolio] (! Not yet finished).
 - 🌷 I've learned data structure, operations research, supply chain optimization, warehouse management, logistics facility design.
 - 🌷 I’ve earned Google Data Analytics ProfessionalCertification, IBM Data Science Professional Certification, Microsoft AI-900, Udemy Statistics for Data Science.
 - ⚡ Academic Profile: <br>
@@ -23,5 +22,4 @@
    <a href="mailto: jungeun.melissa@gmail.com"><img align="left" alt="email" width="70px" src="https://github.com/melissa9813/melissa9813/blob/a6d5a1de53bc6a8ccaa08565f4011bb579a60960/email_logo.jpg" /></a>
 
 [linkedin]: https://www.linkedin.com/in/jungeun-eom/
-[portfolio]: https://eommelissa.wixsite.com/melissa
 [Gmail]: https://melissa9813.github.io/
